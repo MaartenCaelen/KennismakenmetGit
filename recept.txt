@@ -2,3 +2,5 @@ chocomousse
 
 choclade
 eieren
+melk
+boter
